@@ -1,4 +1,4 @@
-﻿Codi;;2019_1;2019_2;III
+﻿Codi;Barri;2019_1;2019_2;III
 1;el Raval  ;822,56;866,97;
 2;el Barri Gòtic  ;1.060,91;1.112,09;
 3;la Barceloneta  ;891,33;924,05;
@@ -9,13 +9,13 @@
 8;l'Antiga Esquerra de l'Eixample  ;1.122,98;1.139,78;
 9;la Nova Esquerra de l'Eixample  ;1.008,49;1.032,85;
 10;Sant Antoni  ;986,23;985,18;
-11;el Poble Sec - AEI Parc Montjuïc  ;815,82;823,40;
+11;el Poble Sec - AEI Parc Montjuïc  ;815,82;823,4;
 12;la Marina del Prat Vermell - AEI Zona Franca  ;-;nd;
-13;la Marina de Port  ;714,90;753,09;
+13;la Marina de Port  ;714,9;753,09;
 14;la Font de la Guatlla  ;857,55;854,17;
 15;Hostafrancs  ;809,96;824,16;
 16;la Bordeta  ;844,11;859,52;
-17;Sants - Badal  ;823,50;858,43;
+17;Sants - Badal  ;823,5;858,43;
 18;Sants  ;872,99;867,48;
 19;les Corts  ;1.070,03;1.085,12;
 20;la Maternitat i Sant Ramon  ;938,49;972,98;
@@ -34,16 +34,16 @@
 33;el Baix Guinardó  ;859,13;866,84;
 34;Can Baró  ;791,25;764,54;
 35;el Guinardó  ;789,83;824,99;
-36;la Font d'en Fargues  ;796,50;1.044,04;
-37;el Carmel  ;670,60;666,91;
-38;la Teixonera  ;704,44;725,90;
-39;Sant Genís dels Agudells  ;759,18;705,10;
-40;Montbau  ;780,36;802,40;
+36;la Font d'en Fargues  ;796,5;1.044,04;
+37;el Carmel  ;670,6;666,91;
+38;la Teixonera  ;704,44;725,9;
+39;Sant Genís dels Agudells  ;759,18;705,1;
+40;Montbau  ;780,36;802,4;
 41;la Vall d'Hebron  ;870,16;796,63;
 42;la Clota  ;nd;nd;
-43;Horta  ;777,00;760,58;
-44;Vilapicina i la Torre Llobeta  ;758,50;773,75;
-45;Porta  ;722,80;775,28;
+43;Horta  ;777;760,58;
+44;Vilapicina i la Torre Llobeta  ;758,5;773,75;
+45;Porta  ;722,8;775,28;
 46;el Turó de la Peira  ;685,25;702,39;
 47;Can Peguera  ;nd;nd;
 48;la Guineueta  ;751,03;723,13;
@@ -58,7 +58,7 @@
 57;la Trinitat Vella  ;601,18;614,68;
 58;Baró de Viver  ;-;nd;
 59;el Bon Pastor  ;705,77;659,19;
-60;Sant Andreu  ;795,26;800,90;
+60;Sant Andreu  ;795,26;800,9;
 61;la Sagrera  ;807,63;807,53;
 62;el Congrés i els Indians  ;772,34;782,66;
 63;Navas  ;855,28;836,94;
@@ -71,4 +71,4 @@
 70;el Besòs i el Maresme  ;694,77;844,53;
 71;Provençals del Poblenou  ;959,15;960,13;
 72;Sant Martí de Provençals  ;840,16;844,06;
-73;la Verneda i la Pau  ;764,62;798,10;
+73;la Verneda i la Pau  ;764,62;798,1;
